@@ -1,7 +1,10 @@
 # flexbox-grid-generator
 
-> Generate Bootstrap Flexbox style
+> Generate Flexbox layout CSS code which base on Bootstrap 4.
 
+## Why need this ?
+Sometime, we may want to create grid layout without Bootstrap, but still keep the style of Bootstrap.
+Use Flexbox Grid Generator, you can get the example of Bootstrap Flexbox easily.
 ## Build Setup
 
 ``` bash
